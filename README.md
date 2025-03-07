@@ -33,9 +33,4 @@
 | **언어** | Python |
 | **라이브러리** | Pandas, NumPy, Matplotlib, Seaborn, WordCloud, Konlpy |
 
----
 
-## 📂 코드 실행 방법
-### 1️⃣ **필수 라이브러리 설치**
-```bash
-pip install pandas numpy matplotlib seaborn wordcloud konlpy chardet
